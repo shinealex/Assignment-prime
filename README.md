@@ -11,7 +11,7 @@ Please test the functionality.
 <b> Notes </b>
 
 1. Caching is implemented
-2. The give unit test on assignment has implemented in PrimeServiceTest (please check)
+2. The given unit test on assignment have been implemented in PrimeServiceTest (please check)
 3. Solution implemented in java 8,spring boot and spring mvc
 4. Unit test are included.
 5. Solution has concurrent alogorithom by using paralell stream from Sream API.
