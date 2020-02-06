@@ -3,7 +3,7 @@ Assignment
 Please follow the below step to deploy and test this application.
 
 There is jar file in home path named <b>prime-rbs-service</b>. Please download this jar and run the following command in the command prompt
-"java -jar prime-rbs-service.jar"
+"java -jar prime-rbs-service.jar" <br>
 Or Entire source code can be downloaded into local machine and upload into Eclipse or Intellij as maven project.
 Enter the following link on the browser http://localhost:8080/primes/{input} [localhost or host Name ]
 Please test the functionality.
